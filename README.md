@@ -18,3 +18,7 @@ npm run docker:run
 ````npm run build
 npm start```
 ````
+
+## Restart Docker
+
+killall Docker && open /Applications/Docker.app
